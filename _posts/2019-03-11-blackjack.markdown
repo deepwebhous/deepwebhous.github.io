@@ -1,10 +1,10 @@
 ---
 title:  "БЛЭКДЖЕК - как сыграть на победу?"
-subtitle: "The Fly!"
-author: "Wferr"
+subtitle: "Секреты бэкджек и стратегии игры."
+author: "Fishka"
 avatar: "img/authors/fishka.jpg"
 image: "img/blagjack.jpg"
-date:   2015-04-20 12:12:12
+date:   2019-03-11 17:12:12
 ---
 
 ### КАК РАЗЫГРАТЬ РУКУ В БЛЭЕДЖЕК
