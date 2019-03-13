@@ -1,6 +1,6 @@
 ---
 title:  "Обход блокировки онлайн казиной в вашей стране"
-subtitle: "Как получать доступ к закрітім ресурсам казион онлайн?"
+subtitle: "Как получать доступ к закрытым ресурсам казион онлайн?"
 author: "Fishka"
 avatar: "img/authors/fishka.jpg"
 image: "img/VPN-for-Casino.jpg"
