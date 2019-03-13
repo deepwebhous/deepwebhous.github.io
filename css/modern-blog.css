@@ -1,6 +1,8 @@
 
 /*CARD */
-
+br {
+	font-size: 18px!important;
+}
 .card {
 	position: relative;
 	float: left;
