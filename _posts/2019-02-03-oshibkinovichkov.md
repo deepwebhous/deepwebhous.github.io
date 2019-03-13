@@ -3,7 +3,7 @@ title:  "Топ ошибок новичков в кизано"
 subtitle: "характерыне ошибки первых игроков в казино"
 author: "Fishka"
 avatar: "img/authors/fishka.jpg"
-image: "img/oshibkinovichkov.png"
+image: "img/oshibkinovichkov.jpg"
 date:   2019-02-03 17:24:23
 ---
 
