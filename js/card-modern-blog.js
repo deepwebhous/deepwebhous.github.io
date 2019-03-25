@@ -1,3 +1,7 @@
+---
+layout: compress-js
+---
+
 'use strict';
 
 var Card = (function (window) {
