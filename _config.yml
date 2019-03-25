@@ -6,6 +6,13 @@ author: Fishka
 baseurl: "/" # the subpath of your site, e.g. /blog/
 url: "http://2earntodie.org/" # the base hostname & protocol for your site
 
+gems:
+  - "jekyll-feed"
+  - "jekyll-seo-tag"
+  - "jekyll-paginate"
+  - "jekyll-sitemap"
+  - "jekyll-minifier"
+
 plugins: 
   - jekyll-minifier
   - jekyll-paginate
